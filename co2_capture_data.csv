@@ -1,0 +1,16 @@
+smiles,co2_adsorption
+C1=CC=C(C=C1)C#CC2=CC=CC=C2,20.23
+O=C(O)c1ccccc1C(=O)O,18.67
+c1cncc(c1)c2cccnc2,19.14
+C1=CC(=CC=C1N)N,10.65
+N#Cc1ccc(cc1)C#N,16.66
+O=C(c1ccc(cc1)C(=O)O)O,24.47
+c1cc(ccc1c2cc(cn2)c3ccccc3)c4cc(cn4)c5ccccc5,10.64
+C(C(F)(F)F)(C(F)(F)F)C(F)(F)F,14.25
+c1ccc2c(c1)c1c3ccccc3c3c4ccccc4c(c21)c3,11.49
+C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],6.38
+c1cnc(cn1)c2cncn2,14.23
+C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=CC=C3,7.61
+c1ccc(cc1)S(=O)(=O)c2ccccc2,20.1
+C(C#N)C#N,20.05
+c1c(c(c(c(c1Cl)Cl)Cl)Cl)Cl,4.0
