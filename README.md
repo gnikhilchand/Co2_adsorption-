@@ -33,8 +33,8 @@ Follow these steps to set up the project environment.
 First, clone the project repository to your local machine.
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone github.com:gnikhilchand/Co2_adsorption-.git
+cd /Co2_adsorption-
 ```
 
 ### 2. Create a Virtual Environment
